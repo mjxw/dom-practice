@@ -57,7 +57,7 @@ function filterItems(e) {
     // convert text to lowercase 
     var text = e.target.value.toLowerCase();
 
-    // Get lis
+    // Get lis 
     var items = itemList.getElementsByTagName('li');
     
     // Convert to an array
